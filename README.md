@@ -51,9 +51,6 @@
 
 ###
 
-### 🐍 Snake animation
-
 <img src="https://raw.githubusercontent.com/mari-garca/mari-garca/output/snake.svg" alt="Snake animation" />
-
 
 ###
