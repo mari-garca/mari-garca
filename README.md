@@ -51,6 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mari-garca/mari-garca/output/snake.svg" alt="Snake animation" />
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/mari-garca/mari-garca/blob/output/github-contribution-grid-snake-dark.svg))
+
 
 ###
